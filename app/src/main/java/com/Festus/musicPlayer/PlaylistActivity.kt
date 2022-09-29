@@ -6,12 +6,11 @@ import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
-import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.Festus.musicPlayer.databinding.ActivityPlaylistBinding
 import com.Festus.musicPlayer.databinding.AddPlaylistDialogBinding
+import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import java.text.SimpleDateFormat
 import java.util.*
-import kotlin.collections.ArrayList
 
 class PlaylistActivity : AppCompatActivity() {
 
